@@ -1,6 +1,6 @@
-# Go To
+# To Do
 
-github push
-nord theme
-background
-autostart diff
+- [x] github push
+- [ ] nord theme
+- [ ] background
+- [ ] autostart diff
